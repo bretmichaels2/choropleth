@@ -1,0 +1,29 @@
+body {
+  background: black;
+  color: white;
+  font-family: "Roboto", sans-serif
+}
+
+#title {
+  font-size: 28px;
+  margin-bottom: -15px;
+  text-transform: uppercase;
+}
+
+#description {
+  font-size: 14px;
+}
+
+#main {
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+#tooltip {
+  background: white;
+  color: black;
+  display: flex;
+  position: absolute;
+  padding: 5px 10px;
+  font-size: 12px;
+}
