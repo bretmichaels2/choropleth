@@ -5,8 +5,8 @@ const eduURL = "https://cdn.freecodecamp.org/testable-projects-fcc/data/chorople
 const w = 1000;
 const h = 600;
 
-const lw = 500;
-const lh = 70;
+const lw = 600;
+const lh = 80;
 
 const m = {
   top: 50,
